@@ -45,7 +45,7 @@ Training EfficientGEBD-ResNet50-L4:
 ```
 bash script/train/EfficientGEBD-ResNet50-L4.sh
 ```
-While training models with **SoccerNet**, use 
+While training models with **SoccerNet**, use：
 ```
 bash EffSoccerNet/EffSoccerNet_train.sh
 ``` 
