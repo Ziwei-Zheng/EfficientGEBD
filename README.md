@@ -1,5 +1,5 @@
 ﻿# Rethinking the Architecture Design for Efficient Generic Event  Boundary Detection
-[Rethinking the Architecture Design for Efficient Generic Event Boundary Detection  ](https://openreview.net/forum?id=sA2a5a5O4g&referrer=%5Bthe%20profile%20of%20Zechuan%20Zhang%5D(%2Fprofile%3Fid%3D~Zechuan_Zhang2)) , ACM MM 2024
+[Rethinking the Architecture Design for Efficient Generic Event Boundary Detection  ](https://arxiv.org/abs/2407.12622)) , ACM MM 2024
 
 [Ziwei Zheng](https://github.com/Ziwei-Zheng?tab=repositories), [Zechuan Zhang](https://github.com/zechuan2024), [Yulin Wang](https://github.com/blackfeather-wang), Shiji Song, Gao Huang, [Le Yang](https://github.com/yangle15)
 ## Overview
@@ -84,6 +84,15 @@ bash EffSoccerNet/SoccerNet_test.sh
 ## Citation
 
 If you find our work helps, please cite our paper:
+
+```
+@article{zheng2024rethinking,
+  title={Rethinking the Architecture Design for Efficient Generic Event Boundary Detection},
+  author={Zheng, Ziwei and Zhang, Zechuan and Wang, Yulin and Song, Shiji and Huang, Gao and Yang, Le},
+  journal={ACM MM},
+  year={2024}
+}
+```
 
 ## Contact
 
