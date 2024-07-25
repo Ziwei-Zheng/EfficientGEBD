@@ -1,7 +1,7 @@
 ﻿# Rethinking the Architecture Design for Efficient Generic Event  Boundary Detection
-[Rethinking the Architecture Design for Efficient Generic Event Boundary Detection  ](https://arxiv.org/abs/2407.12622)) , ACM MM 2024
+[Rethinking the Architecture Design for Efficient Generic Event Boundary Detection](https://arxiv.org/abs/2407.12622)) , ACM MM 2024
 
-[Ziwei Zheng](https://github.com/Ziwei-Zheng?tab=repositories), [Zechuan Zhang](https://github.com/zechuan2024), [Yulin Wang](https://github.com/blackfeather-wang), Shiji Song, Gao Huang, [Le Yang](https://github.com/yangle15)
+[Ziwei Zheng](https://github.com/Ziwei-Zheng), [Zechuan Zhang](https://github.com/zechuan2024), [Yulin Wang](https://github.com/blackfeather-wang), Shiji Song, Gao Huang, [Le Yang](https://github.com/yangle15)
 ## Overview
 In this paper, we experimentally reexamine the architecture of GEBD models and uncover several surprising findings. Firstly, we reveal that a concise GEBD baseline model already achieves promising performance without any sophisticated design. Secondly, we find that the common design of GEBD models using image-domain backbones can contain plenty of architecture redundancy, motivating us to gradually “modernize” each component to enhance efficiency. Thirdly, we show that the GEBD models using image-domain backbones conducting the spatiotemporal learning in a spatial-then-temporal greedy manner can suffer from a distraction issue, which might be the inefficient villain for the GEBD. Using a video-domain backbone to jointly conduct spatiotemporal modeling for GEBD is an effective solution for this issue. 
 The outcome of our exploration significantly outperforms the previous SOTA methods under the same backbone choice. 
@@ -86,16 +86,17 @@ bash EffSoccerNet/SoccerNet_test.sh
 If you find our work helps, please cite our paper:
 
 ```
-@article{zheng2024rethinking,
+@inproceedings{zheng2024rethinking,
   title={Rethinking the Architecture Design for Efficient Generic Event Boundary Detection},
   author={Zheng, Ziwei and Zhang, Zechuan and Wang, Yulin and Song, Shiji and Huang, Gao and Yang, Le},
-  journal={ACM MM},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
   year={2024}
 }
 ```
 
 ## Contact
 
+If you have any questions, please feel free to contact me at ziwei.zheng@stu.xjtu.edu.cn
 
 
 ## Acknowledgement
