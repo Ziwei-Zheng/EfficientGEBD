@@ -79,7 +79,10 @@ bash script/test/BasicGEBD-ResNet50-L1.sh
 While testing model with **SoccerNet**, use:
 ```
 bash EffSoccerNet/SoccerNet_test.sh
-``` 
+```
+
+![GitHub stars](https://img.shields.io/github/stars/Ziwei-Zheng/EfficientGEBD.svg?style=social)
+
 
 ## Citation
 
