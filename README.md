@@ -81,7 +81,9 @@ While testing model with **SoccerNet**, use:
 bash EffSoccerNet/SoccerNet_test.sh
 ```
 
-![GitHub stars](https://img.shields.io/github/stars/Ziwei-Zheng/EfficientGEBD.svg?style=social)
+## Star Chart
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ziwei-Zheng/EfficientGEBD&type=Date)](https://star-history.com/#Ziwei-Zheng/EfficientGEBD&Date)
 
 
 ## Citation
